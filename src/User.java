@@ -11,7 +11,6 @@ public class User {
 
     public User(String fulName, Position position) {
         this.fulName = fulName;
-        int salary;
         this.position = position;
     }
 
